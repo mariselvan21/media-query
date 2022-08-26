@@ -1,1 +1,1 @@
-# media-query
+# media-querry
